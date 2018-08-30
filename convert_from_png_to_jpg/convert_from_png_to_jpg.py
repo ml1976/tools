@@ -1,4 +1,5 @@
 # keep this file in the same folder as images are
+# converting from .png to .jpg
 
 import glob
 from PIL import Image
